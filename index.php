@@ -3,13 +3,15 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>幹細胞生搾り濾液（Lysate）| クリニック向け研究用試薬 | ALGO Inc.</title>
-    <meta name="description" content="特許取得の幹細胞破砕濾液（Lysate）。培養上清液では得られない細胞内成分HSP47/70を高濃度含有。Cell-nucleus Freeで安全性を担保した研究用試薬を自由診療クリニックへ。">
-    <meta property="og:title" content="幹細胞生搾り濾液（Lysate）| クリニック向け研究用試薬">
-    <meta property="og:description" content="特許取得の幹細胞破砕濾液。培養上清液では得られない細胞内成分を高濃度含有。研究用試薬として自由診療クリニックへ提供。">
+    <title>幹細胞生搾り濾液（Lysate）クリニック導入｜特許4件・Cell-nucleus Free｜ALGO Inc.</title>
+    <meta name="description" content="特許4件取得の幹細胞破砕濾液（Lysate）。培養上清液では得られない細胞内成分HSP47/70を高濃度含有。Cell-nucleus Freeで安全性を構造的に担保した研究用試薬を自由診療クリニックへ。">
+    <meta property="og:title" content="幹細胞生搾り濾液（Lysate）クリニック導入｜ALGO Inc.">
+    <meta property="og:description" content="特許4件取得の幹細胞破砕濾液。培養上清液では得られない細胞内成分を高濃度含有。研究用試薬として自由診療クリニックへ提供。">
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://cells.algo-cosme.com/cells/">
     <meta property="og:site_name" content="ALGO Inc. | 幹細胞生搾り">
+    <link rel="canonical" href="https://cells.algo-cosme.com/cells/">
+    <!-- GA4: GTM-XXXXXXXX ここに設置 -->
     <link rel="stylesheet" href="./assets/css/main.css?v=<?php echo time(); ?>">
     <style>
         /* 文字密度と可読性を両立させるスタイルガード */
@@ -106,8 +108,8 @@
             <div class="slide bg-white">
                 <div class="inner-pad-center">
                     <p class="addr-tag">ADDRESS: T1-1 / MAIN VISUAL</p>
-                    <h1>特許取得。培養上清液の先へ。<br>「幹細胞生搾り」という選択肢。</h1>
-                    <p class="content-text-rich" style="text-align:center;">細胞内成分HSP47/70を高濃度に含有する破砕濾液。<br>4領域で特許取得。研究用試薬として、自由診療の新たな選択肢をご提案します。</p>
+                    <h1>特許4件が証明する、<br>培養上清液の"その先"へ。</h1>
+                    <p class="content-text-rich" style="text-align:center;">幹細胞を物理破砕し、細胞内成分まで丸ごと抽出。<br>Cell-nucleus Freeで安全性を構造的に担保した、次世代の研究用試薬。</p>
                 </div>
             </div>
             <div class="slide bg-light">
@@ -128,16 +130,16 @@
                     <p style="font-size: 10px; color: #999; letter-spacing: 0.15em; margin-top: 8px;">特許取得</p>
                 </div>
                 <div style="text-align: center;">
-                    <p style="font-size: 36px; font-weight: 200; color: #2f2f2f; letter-spacing: 0.1em;">2<span style="font-size: 14px; margin-left: 4px;">種</span></p>
-                    <p style="font-size: 10px; color: #999; letter-spacing: 0.15em; margin-top: 8px;">製品ラインナップ</p>
-                </div>
-                <div style="text-align: center;">
-                    <p style="font-size: 36px; font-weight: 200; color: #2f2f2f; letter-spacing: 0.1em;">0.2<span style="font-size: 14px; margin-left: 4px;">μm</span></p>
-                    <p style="font-size: 10px; color: #999; letter-spacing: 0.15em; margin-top: 8px;">精密濾過フィルター</p>
-                </div>
-                <div style="text-align: center;">
                     <p style="font-size: 11px; font-weight: 200; color: #2f2f2f; letter-spacing: 0.1em;">Cell-nucleus<br>Free</p>
                     <p style="font-size: 10px; color: #999; letter-spacing: 0.15em; margin-top: 8px;">核酸除去技術</p>
+                </div>
+                <div style="text-align: center;">
+                    <p style="font-size: 36px; font-weight: 200; color: #2f2f2f; letter-spacing: 0.1em;">--<span style="font-size: 14px; margin-left: 4px;">院</span></p>
+                    <p style="font-size: 10px; color: #999; letter-spacing: 0.15em; margin-top: 8px;">導入実績（準備中）</p>
+                </div>
+                <div style="text-align: center;">
+                    <p style="font-size: 36px; font-weight: 200; color: #2f2f2f; letter-spacing: 0.1em;">--%</p>
+                    <p style="font-size: 10px; color: #999; letter-spacing: 0.15em; margin-top: 8px;">リピート率（準備中）</p>
                 </div>
             </div>
         </div>
@@ -206,7 +208,7 @@
             ["cat"=>"PATENT / JOINT", "ttl"=>"特許技術：関節領域", "txt"=>"変形性膝関節症に関する基礎研究データ。関節内投与に関する特許技術。"],
             ["cat"=>"PATENT / SKIN", "ttl"=>"特許技術：皮膚保護", "txt"=>"皮膚保護に関する基礎研究データ。破砕濾液の皮膚科学領域における研究。"],
             ["cat"=>"BEAUTY / AGA", "ttl"=>"美容皮膚科・AGA", "txt"=>"美容皮膚科・AGA領域における基礎研究。成長因子と毛包に関する学術的知見。"],
-            ["cat"=>"ACADEMIC", "ttl"=>"学会・論文レポート", "txt"=>"最新の学術データを公開。国内外の学会で発表された「濾液（Lysate）」に関する研究成果。", "link"=>"evidence.php"],
+            ["cat"=>"ACADEMIC", "ttl"=>"学会・論文レポート", "txt"=>"最新の学術データを公開。国内外の学会で発表された「濾液（Lysate）」に関する研究成果。特許ポートフォリオもご覧いただけます。", "link"=>"evidence.php"],
             ["cat"=>"FLOW", "ttl"=>"法規制・導入フロー", "txt"=>"リスク管理とコンプライアンス。研究用試薬の適正な取り扱い、同意書取得、広告規制の遵守。"]
         ];
         foreach($work_items as $item): ?>
@@ -224,6 +226,34 @@
             <?php endif; ?>
         </div>
         <?php endforeach; ?>
+    </section>
+
+    <!-- 導入クリニックの声 -->
+    <section class="grid-row">
+        <div class="u-4 bg-light" style="height: auto; padding: 80px 20px;">
+            <div style="max-width: 1200px; margin: 0 auto; text-align: center;">
+                <p style="font-size: 10px; letter-spacing: 0.3em; color: #999; margin-bottom: 15px;">VOICE</p>
+                <h2 style="font-size: 24px; letter-spacing: 0.15em; margin-bottom: 60px;">導入クリニックの声</h2>
+                <div style="display: flex; gap: 40px; flex-wrap: wrap; justify-content: center;">
+                    <div style="flex: 1; min-width: 280px; max-width: 360px; background: #fff; padding: 40px; border: 1px solid #f0f0f0; text-align: left;">
+                        <p style="font-size: 11px; color: #999; letter-spacing: 0.1em; margin-bottom: 15px;">泌尿器科</p>
+                        <p style="font-size: 13px; line-height: 2.2; color: #555;">培養上清液との成分プロファイルの違いに注目し、導入を決めました。研究用試薬としての位置づけが明確で、患者様への説明もしやすい製品です。</p>
+                        <p style="font-size: 11px; color: #888; margin-top: 20px; border-top: 1px solid #f0f0f0; padding-top: 15px;">&#9632;&#9632;クリニック 院長（準備中）</p>
+                    </div>
+                    <div style="flex: 1; min-width: 280px; max-width: 360px; background: #fff; padding: 40px; border: 1px solid #f0f0f0; text-align: left;">
+                        <p style="font-size: 11px; color: #999; letter-spacing: 0.1em; margin-bottom: 15px;">整形外科</p>
+                        <p style="font-size: 13px; line-height: 2.2; color: #555;">Cell-nucleus Free技術による安全性の担保が、自由診療メニューへの組み込みを後押ししました。導入サポート体制も充実しています。</p>
+                        <p style="font-size: 11px; color: #888; margin-top: 20px; border-top: 1px solid #f0f0f0; padding-top: 15px;">&#9632;&#9632;クリニック 院長（準備中）</p>
+                    </div>
+                    <div style="flex: 1; min-width: 280px; max-width: 360px; background: #fff; padding: 40px; border: 1px solid #f0f0f0; text-align: left;">
+                        <p style="font-size: 11px; color: #999; letter-spacing: 0.1em; margin-bottom: 15px;">美容皮膚科</p>
+                        <p style="font-size: 13px; line-height: 2.2; color: #555;">点鼻用と注射用の2ラインナップがあり、患者様の目的に応じた提案が可能です。特許技術に基づく製品という点も信頼感につながっています。</p>
+                        <p style="font-size: 11px; color: #888; margin-top: 20px; border-top: 1px solid #f0f0f0; padding-top: 15px;">&#9632;&#9632;クリニック 院長（準備中）</p>
+                    </div>
+                </div>
+                <p style="font-size: 11px; color: #999; margin-top: 30px;">※ 上記はイメージです。実際の導入院の声は順次掲載予定です。</p>
+            </div>
+        </div>
     </section>
 
     <?php include('components/footer.php'); ?>

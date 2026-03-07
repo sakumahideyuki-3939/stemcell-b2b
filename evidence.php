@@ -10,6 +10,7 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://cells.algo-cosme.com/cells/evidence.php">
     <meta property="og:site_name" content="ALGO Inc. | 幹細胞生搾り">
+    <link rel="canonical" href="https://cells.algo-cosme.com/cells/evidence.php">
     <link rel="stylesheet" href="./assets/css/main.css?v=<?php echo time(); ?>">
     <style>
         .inner-pad-center { padding: 80px 60px; height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; }
@@ -137,6 +138,69 @@
                         ※その他、生殖医療・畜産領域における特許技術も保有。
                     </p>
                 </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- 学会・論文発表実績 -->
+    <section class="grid-row">
+        <div class="u-4 bg-white" style="height: auto; padding: 80px 20px;">
+            <div style="max-width: 700px; margin: 0 auto; text-align: center;">
+                <div class="addr-tag">ADDRESS: E7 / ACADEMIC</div>
+                <h2 class="evidence-lead">学会・論文発表実績</h2>
+                <p class="evidence-text" style="text-align: center; margin-bottom: 40px;">
+                    幹細胞破砕濾液（Lysate）に関する研究成果は、国内外の学会で発表されています。
+                </p>
+                <div style="text-align: left;">
+                    <div style="border-bottom: 1px solid #eee; padding: 20px 0;">
+                        <span style="font-size: 11px; color: #888;">【学会名】</span>
+                        <p style="font-size: 14px; margin-top: 8px; color: #2f2f2f;">脂肪組織由来幹細胞破砕濾液の下部尿路機能に対する基礎的検討</p>
+                        <span style="font-size: 11px; color: #999; margin-top: 5px; display: block;">発表年：【年】</span>
+                    </div>
+                    <div style="border-bottom: 1px solid #eee; padding: 20px 0;">
+                        <span style="font-size: 11px; color: #888;">【学会名】</span>
+                        <p style="font-size: 14px; margin-top: 8px; color: #2f2f2f;">幹細胞Lysateに含まれるHSP47/HSP70の創傷治癒への関与</p>
+                        <span style="font-size: 11px; color: #999; margin-top: 5px; display: block;">発表年：【年】</span>
+                    </div>
+                    <div style="border-bottom: 1px solid #eee; padding: 20px 0;">
+                        <span style="font-size: 11px; color: #888;">【学会名】</span>
+                        <p style="font-size: 14px; margin-top: 8px; color: #2f2f2f;">Cell-nucleus Free技術による無細胞療法の安全性評価</p>
+                        <span style="font-size: 11px; color: #999; margin-top: 5px; display: block;">発表年：【年】</span>
+                    </div>
+                </div>
+                <p style="font-size: 11px; color: #999; margin-top: 30px;">※ 学会名・発表タイトル・年は確定次第更新いたします。詳細資料はお問い合わせください。</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- 成分分析データ -->
+    <section class="grid-row">
+        <div class="u-4 bg-light" style="height: auto; padding: 80px 20px;">
+            <div style="max-width: 900px; margin: 0 auto; text-align: center;">
+                <div class="addr-tag">ADDRESS: E8 / COMPONENT ANALYSIS</div>
+                <h2 class="evidence-lead">主要含有成分の解説</h2>
+                <p class="evidence-text" style="text-align: center; margin-bottom: 60px;">
+                    幹細胞破砕濾液（Lysate）には、培養上清液では得られない細胞内タンパク質が含まれています。<br>以下は、基礎研究で確認されている主要成分です。
+                </p>
+                <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center;">
+                    <div style="flex: 1; min-width: 200px; max-width: 400px; background: #fff; padding: 30px; border: 1px solid #eee; text-align: left;">
+                        <h4 style="font-size: 16px; color: #2f2f2f; margin-bottom: 12px; border-bottom: 1px solid #eee; padding-bottom: 10px;">HSP47</h4>
+                        <p style="font-size: 12px; line-height: 2; color: #555;">コラーゲン特異的なシャペロンタンパク質。コラーゲンの正常な折りたたみと分泌に関与するとされ、皮膚組織の構造維持との関連が基礎研究で報告されています。</p>
+                    </div>
+                    <div style="flex: 1; min-width: 200px; max-width: 400px; background: #fff; padding: 30px; border: 1px solid #eee; text-align: left;">
+                        <h4 style="font-size: 16px; color: #2f2f2f; margin-bottom: 12px; border-bottom: 1px solid #eee; padding-bottom: 10px;">HSP70</h4>
+                        <p style="font-size: 12px; line-height: 2; color: #555;">細胞保護に関与するヒートショックプロテイン。ストレス応答における細胞の恒常性維持との関連が報告されており、抗炎症作用に関する基礎研究が進められています。</p>
+                    </div>
+                    <div style="flex: 1; min-width: 200px; max-width: 400px; background: #fff; padding: 30px; border: 1px solid #eee; text-align: left;">
+                        <h4 style="font-size: 16px; color: #2f2f2f; margin-bottom: 12px; border-bottom: 1px solid #eee; padding-bottom: 10px;">Annexin A6</h4>
+                        <p style="font-size: 12px; line-height: 2; color: #555;">細胞膜の修復や脂質代謝に関与するタンパク質。過剰な炎症反応の抑制や組織の安定化への関与が基礎研究で示唆されています。</p>
+                    </div>
+                    <div style="flex: 1; min-width: 200px; max-width: 400px; background: #fff; padding: 30px; border: 1px solid #eee; text-align: left;">
+                        <h4 style="font-size: 16px; color: #2f2f2f; margin-bottom: 12px; border-bottom: 1px solid #eee; padding-bottom: 10px;">HMGB1</h4>
+                        <p style="font-size: 12px; line-height: 2; color: #555;">核内に存在する高移動度群タンパク質。組織修復や細胞間シグナル伝達に関与するとされ、損傷組織における再生プロセスとの関連が基礎研究で報告されています。</p>
+                    </div>
+                </div>
+                <p style="font-size: 11px; color: #999; margin-top: 30px;">※ 上記は基礎研究に基づく情報であり、特定の疾患に対する治療効果を示すものではありません。</p>
             </div>
         </div>
     </section>

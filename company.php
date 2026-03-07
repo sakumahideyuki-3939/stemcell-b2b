@@ -10,6 +10,7 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://cells.algo-cosme.com/cells/company.php">
     <meta property="og:site_name" content="ALGO Inc. | 幹細胞生搾り">
+    <link rel="canonical" href="https://cells.algo-cosme.com/cells/company.php">
     <link rel="stylesheet" href="./assets/css/main.css?v=<?php echo time(); ?>">
     <style>
         .inner-pad-center { padding: 80px 60px; height: 100%; display: flex; flex-direction: column; justify-content: center; }
@@ -60,6 +61,30 @@
                     <li><strong>05. コンテンツ制作事業</strong>：教育教材、図解資料、LP、論語リライト</li>
                     <li><strong>06. スポーツ・ライフスタイル</strong>：ゴルフマネジメント、吉報旅の企画運営</li>
                 </ul>
+            </div>
+        </div>
+    </section>
+
+    <!-- 製造品質管理 -->
+    <section class="grid-row">
+        <div class="u-4 bg-white" style="height: auto; padding: 80px 20px;">
+            <div style="max-width: 800px; margin: 0 auto;">
+                <h2 style="font-size: 20px; letter-spacing: 0.2em; text-align: center; margin-bottom: 40px;">QUALITY CONTROL</h2>
+                <p style="font-size: 13px; text-align: center; color: #666; margin-bottom: 40px;">製造品質管理体制</p>
+                <div style="display: flex; gap: 30px; flex-wrap: wrap; justify-content: center;">
+                    <div style="flex: 1; min-width: 220px; max-width: 350px; padding: 30px; border: 1px solid #f0f0f0; text-align: center;">
+                        <p style="font-size: 14px; font-weight: bold; color: #2f2f2f; margin-bottom: 12px;">マイコプラズマ否定試験済み</p>
+                        <p style="font-size: 12px; color: #666; line-height: 1.8;">全ロットでマイコプラズマ否定試験を実施し、安全性を確認しています。</p>
+                    </div>
+                    <div style="flex: 1; min-width: 220px; max-width: 350px; padding: 30px; border: 1px solid #f0f0f0; text-align: center;">
+                        <p style="font-size: 14px; font-weight: bold; color: #2f2f2f; margin-bottom: 12px;">0.2μmフィルター精密濾過</p>
+                        <p style="font-size: 12px; color: #666; line-height: 1.8;">精密フィルターにより細胞核・細胞片・微生物を物理的に除去しています。</p>
+                    </div>
+                    <div style="flex: 1; min-width: 220px; max-width: 350px; padding: 30px; border: 1px solid #f0f0f0; text-align: center;">
+                        <p style="font-size: 14px; font-weight: bold; color: #2f2f2f; margin-bottom: 12px;">厳格な製造管理体制</p>
+                        <p style="font-size: 12px; color: #666; line-height: 1.8;">無菌試験・エンドトキシン試験を実施。トレーサビリティを確保した製造管理下で生産しています。</p>
+                    </div>
+                </div>
             </div>
         </div>
     </section>

@@ -181,6 +181,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://cells.algo-cosme.com/cells/contact.php">
     <meta property="og:site_name" content="ALGO Inc. | 幹細胞生搾り">
+    <link rel="canonical" href="https://cells.algo-cosme.com/cells/contact.php">
   <link rel="stylesheet" href="./assets/css/main.css?v=<?php echo time(); ?>">
 
   <style>
@@ -351,9 +352,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                   $cats = [
                     '' => '選択してください',
                     '資料請求' => '資料請求',
-                    '取扱い/導入相談' => '取扱い/導入相談',
-                    '見積・発注' => '見積・発注',
-                    'OEM/共同開発' => 'OEM/共同開発',
+                    'サンプル依頼' => 'サンプル依頼',
+                    '導入相談' => '導入相談',
+                    '価格確認' => '価格確認',
                     'その他' => 'その他',
                   ];
                   foreach ($cats as $val => $label):

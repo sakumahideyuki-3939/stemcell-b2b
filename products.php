@@ -10,6 +10,7 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://cells.algo-cosme.com/cells/products.php">
     <meta property="og:site_name" content="ALGO Inc. | 幹細胞生搾り">
+    <link rel="canonical" href="https://cells.algo-cosme.com/cells/products.php">
     <link rel="stylesheet" href="./assets/css/main.css?v=<?php echo time(); ?>">
     <style>
         .inner-pad-center { padding: 80px 60px; height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; }
@@ -63,6 +64,9 @@
                     <dt>濃度</dt><dd>高濃度エクソソーム 7,000pg/mL以上含有</dd>
                     <dt>安全性</dt><dd>Cell-nucleus Free（0.2μmフィルター処理済）</dd>
                     <dt>内容量</dt><dd>11mL / 本（約30日分・1日2回使用想定） / 1セット（2本入り）〜</dd>
+                    <dt>保存方法</dt><dd>冷凍保存（-20℃以下）※ 詳細はお問い合わせください</dd>
+                    <dt>使用期限</dt><dd>製造日より（詳細はお問い合わせください）</dd>
+                    <dt>ロットサイズ</dt><dd>最小ロットについてはお問い合わせください</dd>
                 </dl>
             </div>
         </div>
@@ -80,6 +84,9 @@
                     <dt>特徴成分</dt><dd>HSP47、HSP70、Annexin A6、HMGB1等</dd>
                     <dt>技術背景</dt><dd>ED治療、皮膚保護、関節炎等の特許技術をベースに製造</dd>
                     <dt>内容量</dt><dd>1mL / Vial（フリーズドライ または 凍結原液） / 1箱（10 Vials）〜</dd>
+                    <dt>保存方法</dt><dd>冷凍保存（-20℃以下）※ 詳細はお問い合わせください</dd>
+                    <dt>使用期限</dt><dd>製造日より（詳細はお問い合わせください）</dd>
+                    <dt>ロットサイズ</dt><dd>最小ロットについてはお問い合わせください</dd>
                 </dl>
             </div>
         </div>

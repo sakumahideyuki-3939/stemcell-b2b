@@ -45,8 +45,18 @@
     <div style="width: 480px; padding: 100px 60px;">
       <div style="font-weight:bold; margin-bottom:40px; font-size:15px; letter-spacing:0.3em;">COPYRIGHT</div>
       <p style="font-size:12px; color:#999;">&copy; 2026 株式会社アルゴ. All Rights Reserved.</p>
+      <div style="margin-top: 30px; display: flex; gap: 10px; flex-wrap: wrap;">
+        <span style="font-size: 10px; border: 1px solid #ddd; padding: 4px 10px; color: #888; letter-spacing: 0.05em;">研究用試薬</span>
+        <span style="font-size: 10px; border: 1px solid #ddd; padding: 4px 10px; color: #888; letter-spacing: 0.05em;">再生医療等安全性確保法 届出不要</span>
+      </div>
     </div>
 
+  </div>
+  <div style="width: 100%; background: #f9f9f9; border-top: 1px solid #eee; padding: 20px 60px; text-align: center;">
+    <p style="font-size: 11px; color: #999; line-height: 1.8;">
+      本サイトは医療従事者・研究者向けの情報提供を目的としています。一般の方への医療相談・診断は行っておりません。<br>
+      掲載情報は基礎研究に基づくものであり、特定の疾患に対する治療効果を保証するものではありません。
+    </p>
   </div>
 </footer>
 
@@ -81,6 +91,6 @@
   }
 </style>
 <div class="sp-fixed-cta">
-  <a href="tel:03-6805-0781">TEL：03-6805-0781</a>
-  <a href="contact.php">お問い合わせ</a>
+  <a href="contact.php?category=資料請求">資料請求</a>
+  <a href="contact.php?category=導入相談">導入相談・お問い合わせ</a>
 </div>

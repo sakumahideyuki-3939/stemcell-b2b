@@ -10,6 +10,7 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://cells.algo-cosme.com/cells/blog.php">
     <meta property="og:site_name" content="ALGO Inc. | 幹細胞生搾り">
+    <link rel="canonical" href="https://cells.algo-cosme.com/cells/blog.php">
     <link rel="stylesheet" href="./assets/css/main.css?v=<?php echo time(); ?>">
     <style>
         .post-item { display: flex; gap: 50px; margin-bottom: 80px; width: 100%; }

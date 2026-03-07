@@ -12,6 +12,7 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="https://cells.algo-cosme.com/cells/concept.php">
     <meta property="og:site_name" content="ALGO Inc. | 幹細胞生搾り">
+    <link rel="canonical" href="https://cells.algo-cosme.com/cells/concept.php">
 
     <!-- ✅ PRODUCTSと同じ共通CSS -->
     <link rel="stylesheet" href="./assets/css/main.css?v=<?php echo time(); ?>">
@@ -144,6 +145,40 @@
                             特徴：創傷治癒や組織再生に関する基礎研究データが報告されています。
                         </p>
                     </td>
+                </tr>
+            </table>
+
+            <!-- 項目別比較表 -->
+            <table class="comparison-table" style="margin-top: 60px;">
+                <tr>
+                    <th style="width: 25%; font-size: 12px; letter-spacing: 0.1em; color: #999;">比較項目</th>
+                    <th style="width: 37.5%; font-size: 12px; letter-spacing: 0.1em; color: #999;">培養上清液</th>
+                    <th style="width: 37.5%; font-size: 12px; letter-spacing: 0.1em; color: #999; background: #f9f6f2;">幹細胞生搾り（Lysate）</th>
+                </tr>
+                <tr>
+                    <td style="font-size: 13px; font-weight: bold; color: #555;">含有成分</td>
+                    <td style="font-size: 13px; color: #666;">分泌物（サイトカイン等）のみ</td>
+                    <td style="font-size: 13px; color: #555; background: #f9f6f2;"><span class="highlight">細胞内成分まで含む</span>（分泌物＋細胞質タンパク質）</td>
+                </tr>
+                <tr>
+                    <td style="font-size: 13px; font-weight: bold; color: #555;">HSP47 / HSP70</td>
+                    <td style="font-size: 13px; color: #666;">ほぼ含まない</td>
+                    <td style="font-size: 13px; color: #555; background: #f9f6f2;"><span class="highlight">高濃度含有</span></td>
+                </tr>
+                <tr>
+                    <td style="font-size: 13px; font-weight: bold; color: #555;">がん化リスク対策</td>
+                    <td style="font-size: 13px; color: #666;">核混入リスクあり（製法による）</td>
+                    <td style="font-size: 13px; color: #555; background: #f9f6f2;"><span class="highlight">Cell-nucleus Free</span>（0.2μm濾過で核除去）</td>
+                </tr>
+                <tr>
+                    <td style="font-size: 13px; font-weight: bold; color: #555;">特許</td>
+                    <td style="font-size: 13px; color: #666;">一般的な製法のため特許なし（多数）</td>
+                    <td style="font-size: 13px; color: #555; background: #f9f6f2;"><span class="highlight">4領域で特許取得済み</span></td>
+                </tr>
+                <tr>
+                    <td style="font-size: 13px; font-weight: bold; color: #555;">製品位置づけ</td>
+                    <td style="font-size: 13px; color: #666;">各社により異なる</td>
+                    <td style="font-size: 13px; color: #555; background: #f9f6f2;">研究用試薬</td>
                 </tr>
             </table>
         </div>

@@ -3,7 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ALGO Inc. | 幹細胞生搾り（濾液）- 医療・美容の次世代ソリューション</title>
+    <title>幹細胞生搾り濾液（Lysate）| クリニック向け研究用試薬 | ALGO Inc.</title>
+    <meta name="description" content="特許取得の幹細胞破砕濾液（Lysate）。培養上清液では得られない細胞内成分HSP47/70を高濃度含有。Cell-nucleus Freeで安全性を担保した研究用試薬を自由診療クリニックへ。">
+    <meta property="og:title" content="幹細胞生搾り濾液（Lysate）| クリニック向け研究用試薬">
+    <meta property="og:description" content="特許取得の幹細胞破砕濾液。培養上清液では得られない細胞内成分を高濃度含有。研究用試薬として自由診療クリニックへ提供。">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://cells.algo-cosme.com/cells/">
+    <meta property="og:site_name" content="ALGO Inc. | 幹細胞生搾り">
     <link rel="stylesheet" href="./assets/css/main.css?v=<?php echo time(); ?>">
     <style>
         /* 文字密度と可読性を両立させるスタイルガード */
@@ -100,15 +106,38 @@
             <div class="slide bg-white">
                 <div class="inner-pad-center">
                     <p class="addr-tag">ADDRESS: T1-1 / MAIN VISUAL</p>
-                    <h1>培養上清の常識を覆す。<br>「幹細胞生搾り」という到達点。</h1>
-                    <p class="content-text-rich" style="text-align:center;">細胞そのものを物理的に破砕し、核を除去した次世代濾液。<br>数千種の生理活性物質が、貴院の自由診療を新たなステージへ。</p>
+                    <h1>特許取得。培養上清液の先へ。<br>「幹細胞生搾り」という選択肢。</h1>
+                    <p class="content-text-rich" style="text-align:center;">細胞内成分HSP47/70を高濃度に含有する破砕濾液。<br>4領域で特許取得。研究用試薬として、自由診療の新たな選択肢をご提案します。</p>
                 </div>
             </div>
             <div class="slide bg-light">
                 <div class="inner-pad-center">
                     <p class="addr-tag">ADDRESS: T1-2 / VISION</p>
-                    <h1>物理的破砕が解き放つ、<br>未利用の有用タンパク質。</h1>
-                    <p class="content-text-rich" style="text-align:center;">従来の分泌液回収では到達できなかった濃度とキレ。<br>エビデンスに基づいた「Lysate」が、医療の選択肢を広げます。</p>
+                    <h1>Cell-nucleus Free。<br>核を除去した、安全設計の濾液。</h1>
+                    <p class="content-text-rich" style="text-align:center;">0.2μmフィルターで細胞核を物理的に除去。<br>研究データに基づく成分プロファイルを、製品資料でご確認いただけます。</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="grid-row" style="border-bottom: 1px solid #f0f0f0;">
+        <div class="u-4" style="height: 200px;">
+            <div style="display: flex; justify-content: center; align-items: center; height: 100%; gap: 80px; flex-wrap: wrap; padding: 40px 20px;">
+                <div style="text-align: center;">
+                    <p style="font-size: 36px; font-weight: 200; color: #2f2f2f; letter-spacing: 0.1em;">4<span style="font-size: 14px; margin-left: 4px;">件</span></p>
+                    <p style="font-size: 10px; color: #999; letter-spacing: 0.15em; margin-top: 8px;">特許取得</p>
+                </div>
+                <div style="text-align: center;">
+                    <p style="font-size: 36px; font-weight: 200; color: #2f2f2f; letter-spacing: 0.1em;">2<span style="font-size: 14px; margin-left: 4px;">種</span></p>
+                    <p style="font-size: 10px; color: #999; letter-spacing: 0.15em; margin-top: 8px;">製品ラインナップ</p>
+                </div>
+                <div style="text-align: center;">
+                    <p style="font-size: 36px; font-weight: 200; color: #2f2f2f; letter-spacing: 0.1em;">0.2<span style="font-size: 14px; margin-left: 4px;">μm</span></p>
+                    <p style="font-size: 10px; color: #999; letter-spacing: 0.15em; margin-top: 8px;">精密濾過フィルター</p>
+                </div>
+                <div style="text-align: center;">
+                    <p style="font-size: 11px; font-weight: 200; color: #2f2f2f; letter-spacing: 0.1em;">Cell-nucleus<br>Free</p>
+                    <p style="font-size: 10px; color: #999; letter-spacing: 0.15em; margin-top: 8px;">核酸除去技術</p>
                 </div>
             </div>
         </div>
@@ -126,7 +155,7 @@
             <div class="inner-pad-center">
                 <div class="addr-tag">ADDRESS: T2-2</div>
                 <h2>確かな、エビデンス。</h2>
-                <p class="work-desc-rich">本技術は、「下部尿路機能障害」「勃起不全（ED）」「変形性膝関節症」「皮膚保護剤」など多岐にわたる分野で特許を取得・出願済みの技術に基づいています。例えば、脂肪組織由来幹細胞の破砕濾液には、創傷治癒を促進するHSP47やHSP70、抗炎症作用を持つAnnexinA6などが含まれることが確認されており、単なる培養上清とは一線を画す成分プロファイルを有しています。</p>
+                <p class="work-desc-rich">本技術は、「下部尿路機能障害」「勃起不全（ED）」「変形性膝関節症」「皮膚保護剤」など多岐にわたる分野で特許を取得・出願済みの技術に基づいています。脂肪組織由来幹細胞の破砕濾液には、創傷治癒への関与が報告されているHSP47やHSP70、抗炎症作用への関与が報告されているAnnexinA6などが含まれることが確認されており、培養上清液とは異なる成分プロファイルを有しています。</p>
             </div>
         </div>
         <div class="u-double h-960 bg-soft">
@@ -134,8 +163,8 @@
                 <div class="addr-tag">ADDRESS: T2-3</div>
                 <h2>生搾りが、医療を変える。</h2>
                 <p class="content-text-rich">
-                    再生医療の現場では、「細胞移植（Cell Therapy）」の効果への期待と、コストや定着率、そして腫瘍化リスクという課題の板挟みがありました。一方で「培養上清液」は手軽ですが、効果の「キレ」に物足りなさを感じる場面も少なくありません。<br><br>
-                    「幹細胞生搾り（濾液）」は、これら双方の課題を解決する第3の選択肢です。細胞そのものは含まず、しかし細胞の中身（細胞質・オルガネラ成分）を余すことなく利用することで、細胞移植に匹敵する多種多様な成長因子とエクソソームを患部に届けます。研究用試薬としての提供ですが、ED治療や難治性皮膚潰瘍など、既存薬では効果が不十分な症例に対する新たなアプローチとして、多くの臨床医から注目を集めています。
+                    再生医療の現場では、「細胞移植（Cell Therapy）」への期待と、コストや定着率、そして腫瘍化リスクという課題がありました。一方で「培養上清液」は手軽ですが、細胞内部の成分は含まれていません。<br><br>
+                    「幹細胞生搾り（濾液）」は、細胞そのものは含まず、細胞の中身（細胞質・オルガネラ成分）を含有する研究用試薬です。多種多様な成長因子やエクソソームを含有しており、複数の領域で特許を取得しています。関連する基礎研究データについては、<a href="evidence.php" style="color:#2f2f2f; text-decoration:underline;">EVIDENCEページ</a>をご参照ください。
                 </p>
             </div>
         </div>
@@ -148,15 +177,15 @@
                 <h2>安全性の新基準。</h2>
                 <p class="content-text-rich">
                     幹細胞治療において最大の懸念は「がん化（腫瘍形成）」のリスクです。特に未分化な幹細胞や、CD133などのマーカーを持つ細胞の混入はリスク因子となり得ます。本製品は、細胞を破砕した後、0.2μm等のフィルターで精密濾過を行っています。<br><br>
-                    この工程により、がん化の根本原因となる「細胞核（DNA）」や「ミトコンドリア」、そして細胞そのものを物理的に完全に除去しています。「核を含まない（Cell-nucleus Free）」という特性により、理論上、がん化のリスクを極限まで排除しました。また、製造は厳格な管理下で行われ、マイコプラズマ否定試験や滅菌処理を徹底しており、ドクターが安心して扱える品質を担保しています。
+                    この工程により、がん化の原因となり得る「細胞核（DNA）」や「ミトコンドリア」、そして細胞そのものを物理的に除去しています。「核を含まない（Cell-nucleus Free）」という特性により、腫瘍形成リスクの低減が理論上期待されます。また、製造は厳格な管理下で行われ、マイコプラズマ否定試験や滅菌処理を徹底しています。
                 </p>
             </div>
         </div>
         <div class="u-unit h-960 bg-white">
             <div class="inner-pad-center">
                 <div class="addr-tag">ADDRESS: T2-5</div>
-                <h3>導入クリニックの声</h3>
-                <p class="work-desc-rich">「従来の上清液では反応が鈍かった患者様から、体感の違いに驚きの声をいただいています」「点鼻投与という簡便な手法でありながら、Nose-to-Brainによる中枢神経系へのアプローチが期待できる点が画期的です」<br><br>すでに導入された先生方からは、脳梗塞後遺症や神経変性疾患、難治性の痛みに対するQOL改善の事例が多く報告されており、リピート率の高さが製品力を物語っています。</p>
+                <h3>製品の特長</h3>
+                <p class="work-desc-rich">本製品は研究用試薬として、多くの医療機関にご採用いただいております。培養上清液とは異なる成分プロファイル（細胞内タンパク質HSP47/70等を含有）と、Cell-nucleus Free技術による細胞核除去が特長です。<br><br>点鼻用・局所注射用の2種類をご用意しており、医師の判断のもと、各種用途にご検討いただけます。導入に関するご相談は<a href="contact.php" style="color:#2f2f2f; text-decoration:underline;">こちら</a>から承ります。</p>
             </div>
         </div>
         <div class="u-unit h-960 bg-light">
@@ -172,21 +201,27 @@
         <?php 
         $work_items = [
             ["cat"=>"LINEUP", "ttl"=>"製品ラインナップ", "txt"=>"「点鼻用」と「局所注射用」。独自の抽出技術で高濃度化. 目的に合わせて選べる2つのシステム。"],
-            ["cat"=>"MECHANISM", "ttl"=>"成分・メカニズム", "txt"=>"HSP70・エクソソームの力。細胞破砕液だけに含まれる細胞内タンパク質の修復・抗炎症作用。"],
-            ["cat"=>"PATENT / ED", "ttl"=>"特許技術：ED治療", "txt"=>"海綿体への直接アプローチ。PDE-5阻害薬で効果が出ない症例に対する、幹細胞濾液の特許技術。"],
-            ["cat"=>"PATENT / JOINT", "ttl"=>"特許技術：疼痛・関節", "txt"=>"変形性膝関節症への応用。抗炎症タンパク質が軟骨を保護。関節内注射による疼痛緩和の可能性。"],
-            ["cat"=>"PATENT / SKIN", "ttl"=>"特許技術：皮膚保護", "txt"=>"難治性潰瘍・創傷治癒。糖尿病性潰瘍など、治りにくい傷に対する組織修復促進データ。"],
-            ["cat"=>"BEAUTY / AGA", "ttl"=>"美容皮膚科・AGA", "txt"=>"線維芽細胞と毛母を刺激。真皮層の再構築と育毛シグナル。美肌菌との関連についても解説。"],
-            ["cat"=>"ACADEMIC", "ttl"=>"学会・論文レポート", "txt"=>"最新の学術データを公開。国内外の学会で発表された「濾液（Lysate）」に関する研究成果。"],
+            ["cat"=>"MECHANISM", "ttl"=>"成分・メカニズム", "txt"=>"HSP70・エクソソーム等を含有。細胞破砕により抽出される細胞内タンパク質の成分プロファイル。"],
+            ["cat"=>"PATENT / ED", "ttl"=>"特許技術：ED領域", "txt"=>"幹細胞濾液に関する特許技術の研究データ。基礎研究における知見をご紹介します。"],
+            ["cat"=>"PATENT / JOINT", "ttl"=>"特許技術：関節領域", "txt"=>"変形性膝関節症に関する基礎研究データ。関節内投与に関する特許技術。"],
+            ["cat"=>"PATENT / SKIN", "ttl"=>"特許技術：皮膚保護", "txt"=>"皮膚保護に関する基礎研究データ。破砕濾液の皮膚科学領域における研究。"],
+            ["cat"=>"BEAUTY / AGA", "ttl"=>"美容皮膚科・AGA", "txt"=>"美容皮膚科・AGA領域における基礎研究。成長因子と毛包に関する学術的知見。"],
+            ["cat"=>"ACADEMIC", "ttl"=>"学会・論文レポート", "txt"=>"最新の学術データを公開。国内外の学会で発表された「濾液（Lysate）」に関する研究成果。", "link"=>"evidence.php"],
             ["cat"=>"FLOW", "ttl"=>"法規制・導入フロー", "txt"=>"リスク管理とコンプライアンス。研究用試薬の適正な取り扱い、同意書取得、広告規制の遵守。"]
         ];
         foreach($work_items as $item): ?>
         <div class="u-unit h-480 bg-white" style="border: 0.5px solid #f9f9f9;">
+            <?php if (!empty($item['link'])): ?>
+            <a href="<?php echo $item['link']; ?>" style="text-decoration: none; color: inherit; display: block; height: 100%;">
+            <?php endif; ?>
             <div class="inner-pad-center" style="padding: 40px;">
                 <div class="work-cat" style="font-size: 9px; color: #999; margin-bottom: 10px;"><?php echo $item['cat']; ?></div>
                 <div class="work-ttl"><?php echo $item['ttl']; ?></div>
                 <p class="work-desc-rich" style="text-align: center;"><?php echo $item['txt']; ?></p>
             </div>
+            <?php if (!empty($item['link'])): ?>
+            </a>
+            <?php endif; ?>
         </div>
         <?php endforeach; ?>
     </section>

@@ -5,8 +5,13 @@
 
     <!-- ✅ PRODUCTSと同じ viewport -->
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-    <title>CONCEPT | 幹細胞生搾り (Stem Cell Lysate)</title>
+    <title>CONCEPT｜培養上清液との違い・生搾り濾液の仕組み | ALGO Inc.</title>
+    <meta name="description" content="幹細胞生搾り濾液（Lysate）と培養上清液の違いを解説。物理的破砕により細胞内成分（HSP47/70・AnnexinA6・HMGB1）を高濃度抽出。Cell-nucleus Free技術の仕組み。">
+    <meta property="og:title" content="CONCEPT｜培養上清液との違い・生搾り濾液の仕組み">
+    <meta property="og:description" content="幹細胞生搾り濾液と培養上清液の違いを解説。物理的破砕による細胞内成分の高濃度抽出技術。">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://cells.algo-cosme.com/cells/concept.php">
+    <meta property="og:site_name" content="ALGO Inc. | 幹細胞生搾り">
 
     <!-- ✅ PRODUCTSと同じ共通CSS -->
     <link rel="stylesheet" href="./assets/css/main.css?v=<?php echo time(); ?>">
@@ -105,11 +110,13 @@
                 <div class="intro-text">
                     <p>再生医療の現場で広く使われてきた「幹細胞培養上清液」。それは、細胞を培養する過程で外へ分泌した成分のみを利用するものでした。しかし、細胞が持つ本来のポテンシャルは、分泌されるものだけではありません。</p>
                     <p>私たちがたどり着いたのは、<strong>「幹細胞そのものを物理的に破砕し、中身を丸ごと抽出する」</strong>という、まったく新しいアプローチです。これを私たちは『幹細胞生搾り（Stem Cell Lysate / FADRCL）』と名付けました。</p>
-                    <p>従来の手法では捨てられていた「細胞の内側」にある数千種類の生理活性物質。それらを余すことなく取り出し、かつリスクとなる細胞核をフィルターで完全に取り除く。それが、次世代のリバースエイジング・メソッドです。</p>
+                    <p>従来の手法では捨てられていた「細胞の内側」にある数千種類の生理活性物質。それらを余すことなく取り出し、かつリスクとなる細胞核をフィルターで完全に取り除く。それが、私たちの独自技術による新しい抽出アプローチです。</p>
                 </div>
-                <div class="intro-visual">
-                    <!-- 必要ならここに画像を入れる -->
-                    <!-- <img src="./assets/img/concept/xxx.jpg" alt="concept image"> -->
+                <div class="intro-visual" style="display: flex; align-items: center; justify-content: center; background: linear-gradient(135deg, #f9f9f9 0%, #f0ede8 100%);">
+                    <div style="text-align: center; padding: 40px;">
+                        <p style="font-size: 48px; color: #ddd; letter-spacing: 0.3em; font-weight: 200;">LYSATE</p>
+                        <p style="font-size: 11px; color: #aaa; letter-spacing: 0.2em; margin-top: 15px;">Stem Cell Lysate Technology</p>
+                    </div>
                 </div>
             </div>
 
@@ -124,7 +131,7 @@
                         <p class="comp-desc">
                             製法：幹細胞を培養した後の「上澄み」を回収。<br>
                             成分：細胞が外へ分泌したサイトカインのみ。<br>
-                            課題：細胞内部にある強力な修復因子（HSP等）が含まれず、効果に限界がある場合がある。
+                            特徴：細胞内部の成分（HSP等）は含まれていません。
                         </p>
                     </td>
 
@@ -134,7 +141,7 @@
                         <p class="comp-desc">
                             製法：幹細胞を凍結融解や超音波で物理的に破壊し、精密濾過を行う独自の抽出技術。<br>
                             成分：分泌物に加え、<span class="highlight">細胞質・細胞内小器官の有用タンパク質</span>も高濃度に含有。<br>
-                            優位性：創傷治癒や組織再生において高い効果を示すデータが確認されています。
+                            特徴：創傷治癒や組織再生に関する基礎研究データが報告されています。
                         </p>
                     </td>
                 </tr>
@@ -149,7 +156,7 @@
                 <div class="ingredient-grid">
                     <div class="ing-card">
                         <h3 class="ing-name">HSP 47 / 70</h3>
-                        <p class="ing-desc">「細胞の修理屋」とも呼ばれるシャペロンタンパク質。傷ついた細胞の修復を助け、コラーゲン産生を強力にサポートします。分泌液のみの従来法では得られない貴重な成分です。</p>
+                        <p class="ing-desc">シャペロンタンパク質の一種。コラーゲン産生との関連が基礎研究で報告されています。培養上清液（分泌液）には通常含まれない、細胞内に存在するタンパク質です。</p>
                     </div>
 
                     <div class="ing-card">
@@ -159,7 +166,7 @@
 
                     <div class="ing-card">
                         <h3 class="ing-name">HMGB1</h3>
-                        <p class="ing-desc">組織の再生や修復指令に関与する核内タンパク質。体内の幹細胞を呼び寄せる「再生のシグナル」として機能します。</p>
+                        <p class="ing-desc">組織修復に関与するとされる核内タンパク質。細胞間のシグナル伝達への関わりが基礎研究で報告されています。</p>
                     </div>
                 </div>
             </div>
@@ -173,20 +180,27 @@
                 <div class="safety-grid">
                     <div class="safety-item">
                         <span class="safety-num">01.</span>
-                        <h4>がん化リスクの排除</h4>
-                        <p>0.2μmの特殊フィルターにより、細胞核（DNA）を物理的に完全除去。遺伝情報を含まないため、腫瘍形成のリスクを理論上排除しています。</p>
+                        <h4>細胞核の除去</h4>
+                        <p>0.2μmの特殊フィルターにより、細胞核（DNA）を物理的に除去。細胞核を含まないことにより、腫瘍形成リスクの低減が理論上期待されます。</p>
                     </div>
 
                     <div class="safety-item">
                         <span class="safety-num">02.</span>
-                        <h4>高純度な有効成分</h4>
-                        <p>細胞の破片（デブリ）やミトコンドリアを除去し、純粋な「有効成分の濾液」のみを製品化。医療現場のニーズにエビデンスで応えます。</p>
+                        <h4>高純度な含有成分</h4>
+                        <p>細胞の破片（デブリ）やミトコンドリアを除去し、含有成分の濾液のみを製品化。研究用試薬として提供しています。</p>
                     </div>
                 </div>
             </div>
         </section>
 
     </div><!-- /.site-wrapper -->
+
+    <section style="width: 100%; padding: 60px 20px; text-align: center; background: #fff;">
+        <p style="font-size: 13px; color: #666; line-height: 2; margin-bottom: 20px;">
+            生搾り濾液の技術資料・成分データについて、<br>詳しい情報をご提供いたします。
+        </p>
+        <a href="contact.php?category=資料請求" style="display: inline-block; border: 1px solid #2f2f2f; color: #2f2f2f; padding: 12px 30px; font-size: 12px; letter-spacing: 0.15em; text-decoration: none;">技術資料をご請求ください</a>
+    </section>
 
     <!-- ✅ PRODUCTSと同じフッター -->
     <?php include('components/footer.php'); ?>

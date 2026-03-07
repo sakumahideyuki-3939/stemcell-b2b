@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://cells.algo-cosme.com/cells/</loc><priority>1.0</priority></url>
+  <url><loc>https://cells.algo-cosme.com/cells/concept.php</loc><priority>0.8</priority></url>
+  <url><loc>https://cells.algo-cosme.com/cells/evidence.php</loc><priority>0.8</priority></url>
+  <url><loc>https://cells.algo-cosme.com/cells/products.php</loc><priority>0.8</priority></url>
+  <url><loc>https://cells.algo-cosme.com/cells/company.php</loc><priority>0.6</priority></url>
+  <url><loc>https://cells.algo-cosme.com/cells/blog.php</loc><priority>0.6</priority></url>
+  <url><loc>https://cells.algo-cosme.com/cells/contact.php</loc><priority>0.7</priority></url>
+</urlset>

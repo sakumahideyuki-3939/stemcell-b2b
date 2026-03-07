@@ -3,7 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>EVIDENCE | ALGO Inc.</title>
+    <title>EVIDENCE｜幹細胞Lysate特許技術・HSP47/70・Cell-nucleus Free | ALGO Inc.</title>
+    <meta name="description" content="幹細胞破砕濾液（Lysate）の特許ポートフォリオと研究データ。下部尿路機能障害・ED・皮膚保護・変形性膝関節症の4領域で特許取得。Cell-nucleus Free技術の科学的根拠。">
+    <meta property="og:title" content="EVIDENCE｜幹細胞Lysate特許技術・研究データ">
+    <meta property="og:description" content="幹細胞破砕濾液の特許ポートフォリオと研究データ。4領域で特許取得。Cell-nucleus Free技術の科学的根拠。">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://cells.algo-cosme.com/cells/evidence.php">
+    <meta property="og:site_name" content="ALGO Inc. | 幹細胞生搾り">
     <link rel="stylesheet" href="./assets/css/main.css?v=<?php echo time(); ?>">
     <style>
         .inner-pad-center { padding: 80px 60px; height: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; }
@@ -27,7 +33,7 @@
             <div class="inner-pad-center">
                 <div class="addr-tag">ADDRESS: E1 - E2 / TECHNOLOGY</div>
                 <h1 style="font-size: 32px; letter-spacing: 0.4em;">EVIDENCE</h1>
-                <p style="margin-top:20px; color:#888; font-size:12px; letter-spacing:0.2em;">科学的根拠と特許技術：幹細胞破砕濾液が拓く次世代の医療</p>
+                <p style="margin-top:20px; color:#888; font-size:12px; letter-spacing:0.2em;">幹細胞破砕濾液に関する特許技術と基礎研究</p>
             </div>
         </div>
     </section>
@@ -43,11 +49,11 @@
                 <ul class="feature-list">
                     <li>
                         <b>がん化リスクの回避</b>
-                        生きた細胞を含まないため、腫瘍形成や拒絶反応のリスクが極めて低く抑えられます。
+                        生きた細胞を含まないため、腫瘍形成や拒絶反応のリスク低減が期待されます。
                     </li>
                     <li>
-                        <b>高濃度の有効因子</b>
-                        幹細胞が持つHSP（ヒートショックプロテイン）や成長因子などの有用タンパク質を、破砕によって高濃度に抽出・利用します。
+                        <b>細胞内タンパク質の含有</b>
+                        幹細胞が持つHSP（ヒートショックプロテイン）や成長因子などのタンパク質を、破砕によって高濃度に含有しています。
                     </li>
                     <li>
                         <b>安定した保存と輸送</b>
@@ -63,7 +69,7 @@
                 <p class="evidence-text" style="font-size: 12px; color: #888; text-align: center;">
                     [ 物理的破砕 ] × [ 0.2μmフィルタリング ]<br>
                     ↓<br>
-                    細胞核を除去し、有効成分のみを抽出した「安全かつ高濃度」な濾液
+                    細胞核を除去し、含有成分を抽出した濾液（研究用試薬）
                 </p>
             </div>
         </div>
@@ -75,7 +81,7 @@
                 <div class="addr-tag">ADDRESS: E5 - E6 / PATENT PORTFOLIO</div>
                 <h2 class="evidence-lead">特許ポートフォリオと実証データ</h2>
                 <p class="evidence-text" style="text-align: center; margin-bottom: 60px;">
-                    当社が保有・ライセンス提供を行う技術は、以下の多岐にわたる医療・応用分野で特許を取得・出願しており、動物実験等において有意な効果が実証されています。
+                    当社が保有・ライセンス提供を行う技術は、以下の多岐にわたる分野で特許を取得・出願しており、動物モデルにおける基礎研究データが蓄積されています。
                 </p>
 
                 <div class="patent-card">
@@ -86,7 +92,7 @@
                     </p>
                     <span class="data-label">実証データ</span>
                     <p class="evidence-text" style="font-size: 12px;">
-                        間質性膀胱炎および溢流性尿失禁モデルにおいて、膀胱内への注入により排尿間隔の延長と膀胱内圧の有意な改善が確認されました。
+                        動物モデルにおいて、排尿間隔や膀胱内圧に関する変化が報告されています。（出典：特許公開 JP2021-116257A）
                     </p>
                 </div>
 
@@ -94,11 +100,35 @@
                     <span class="patent-no">特許公開: JP2019-142831A</span>
                     <h3 class="patent-title">勃起不全（ED）治療剤</h3>
                     <p class="evidence-text" style="font-size: 12px;">
-                        陰茎海綿体への投与により、神経性や糖尿病性のEDを改善します。
+                        陰茎海綿体への投与に関する基礎研究が行われています。（特許名称としての記載）
                     </p>
                     <span class="data-label">実証データ</span>
                     <p class="evidence-text" style="font-size: 12px;">
-                        ラットEDモデルにおいて、海綿体への注入が陰茎内圧を有意に改善させました。既存のPDE-5阻害薬との併用で高い相乗効果が示唆されています。
+                        ラットモデルにおいて陰茎内圧の変化が観察されたと報告されています。既存薬との併用に関する基礎研究データも報告されています。（出典：特許公開 JP2019-142831A）
+                    </p>
+                </div>
+
+                <div class="patent-card">
+                    <span class="patent-no">特許技術</span>
+                    <h3 class="patent-title">皮膚保護剤</h3>
+                    <p class="evidence-text" style="font-size: 12px;">
+                        脂肪組織由来幹細胞の破砕濾液を含有する皮膚保護剤。難治性潰瘍や創傷に対する組織修復への応用が期待されています。
+                    </p>
+                    <span class="data-label">研究データ</span>
+                    <p class="evidence-text" style="font-size: 12px;">
+                        基礎研究において、破砕濾液に含まれるHSP47やAnnexinA6等のタンパク質が、創傷治癒プロセスに関与する可能性が報告されています。
+                    </p>
+                </div>
+
+                <div class="patent-card">
+                    <span class="patent-no">特許技術</span>
+                    <h3 class="patent-title">変形性膝関節症への応用</h3>
+                    <p class="evidence-text" style="font-size: 12px;">
+                        幹細胞破砕濾液の関節内投与による、変形性膝関節症に対するアプローチ。抗炎症タンパク質による軟骨保護の可能性が研究されています。
+                    </p>
+                    <span class="data-label">研究データ</span>
+                    <p class="evidence-text" style="font-size: 12px;">
+                        基礎研究において、HMGB1等の組織修復関連因子が含まれることが確認されており、関節組織への応用研究が進められています。
                     </p>
                 </div>
 
@@ -108,6 +138,15 @@
                     </p>
                 </div>
             </div>
+        </div>
+    </section>
+
+    <section class="grid-row" style="height: auto;">
+        <div class="u-4 bg-white" style="padding: 60px 20px; text-align: center;">
+            <p style="font-size: 13px; color: #666; line-height: 2; margin-bottom: 20px;">
+                特許技術の詳細資料・研究データについて、<br>お気軽にお問い合わせください。
+            </p>
+            <a href="contact.php?category=資料請求" style="display: inline-block; border: 1px solid #2f2f2f; color: #2f2f2f; padding: 12px 30px; font-size: 12px; letter-spacing: 0.15em; text-decoration: none;">特許技術の詳細について相談する</a>
         </div>
     </section>
 

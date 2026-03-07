@@ -1,3 +1,13 @@
+<!-- 共通CTAセクション -->
+<section style="width: 100%; background: #2f2f2f; padding: 80px 20px; text-align: center;">
+  <p style="font-size: 14px; letter-spacing: 0.2em; color: #ccc; margin-bottom: 15px;">CONTACT</p>
+  <h2 style="font-size: 24px; color: #fff; letter-spacing: 0.15em; margin-bottom: 20px;">導入相談・製品資料のご請求</h2>
+  <p style="font-size: 13px; color: #999; line-height: 2; margin-bottom: 30px;">
+    特許取得済みの幹細胞破砕濾液（Lysate）について、<br>資料請求・サンプルのご依頼・導入のご相談を承ります。
+  </p>
+  <a href="contact.php" style="display: inline-block; border: 1px solid #fff; color: #fff; padding: 14px 40px; font-size: 12px; letter-spacing: 0.2em; text-decoration: none; transition: all 0.3s;">お問い合わせはこちら</a>
+</section>
+
 <footer style="width: 100%; border-top: 1px solid #333; background: #fff; clear: both; margin-top: 100px; position: relative; z-index: 10;">
   <div style="max-width: 1920px; margin: 0 auto; display: flex; flex-wrap: wrap;">
     
@@ -27,7 +37,7 @@
       <div style="font-weight:bold; margin-bottom:40px; font-size:15px; letter-spacing:0.3em;">cells.algo-cosme</div>
       <p style="font-size:13px; line-height:2.5; color:#777;">
         〒150-0011<br>
-        脂肪組織や骨髄由来の幹細胞を高度に濾過した「濾液」を活用する、革新的な無細胞療法です。細胞そのものを投与しないため、がん化リスクを抑えつつ、高い安全性と保存・製剤化の容易さを実現しました。再生医療と美容に新たな治療選択肢をもたらします。
+        脂肪組織や骨髄由来の幹細胞を高度に濾過した研究用試薬です。細胞核を含まない濾液として提供しています。再生医療・美容分野における基礎研究が進められています。
       </p>
     </div>
 
@@ -39,3 +49,38 @@
 
   </div>
 </footer>
+
+<!-- スマホ固定CTAバー -->
+<style>
+  .sp-fixed-cta { display: none; }
+  @media screen and (max-width: 768px) {
+    .sp-fixed-cta {
+      display: flex;
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      z-index: 10000;
+      background: #2f2f2f;
+      border-top: 1px solid #555;
+    }
+    .sp-fixed-cta a {
+      flex: 1;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      padding: 14px 0;
+      color: #fff;
+      text-decoration: none;
+      font-size: 12px;
+      letter-spacing: 0.1em;
+    }
+    .sp-fixed-cta a:first-child { border-right: 1px solid #555; }
+    .sp-fixed-cta a:hover { background: #444; }
+    footer { margin-bottom: 48px !important; }
+  }
+</style>
+<div class="sp-fixed-cta">
+  <a href="tel:03-6805-0781">TEL：03-6805-0781</a>
+  <a href="contact.php">お問い合わせ</a>
+</div>

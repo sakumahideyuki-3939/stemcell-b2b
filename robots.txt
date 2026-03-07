@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cells.algo-cosme.com/cells/sitemap.xml

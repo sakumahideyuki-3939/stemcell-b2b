@@ -3,7 +3,13 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>BLOG | ALGO Inc.</title>
+    <title>BLOG｜幹細胞・再生医療の最新情報 | ALGO Inc.</title>
+    <meta name="description" content="幹細胞生搾り濾液（Lysate）・再生医療・自由診療に関する最新情報をお届け。培養上清液との違い、特許技術、導入事例など。">
+    <meta property="og:title" content="BLOG｜幹細胞・再生医療の最新情報">
+    <meta property="og:description" content="幹細胞生搾り濾液・再生医療・自由診療に関する最新情報をお届け。">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="https://cells.algo-cosme.com/cells/blog.php">
+    <meta property="og:site_name" content="ALGO Inc. | 幹細胞生搾り">
     <link rel="stylesheet" href="./assets/css/main.css?v=<?php echo time(); ?>">
     <style>
         .post-item { display: flex; gap: 50px; margin-bottom: 80px; width: 100%; }

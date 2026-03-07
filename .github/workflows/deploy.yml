@@ -1,0 +1,29 @@
+name: Deploy to Sakura
+on:
+  push:
+    branches: [main]
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: FTP Deploy
+        uses: sand4rt/ftp-deployer@v1.8
+        with:
+          sftp: false
+          host: ${{ secrets.FTP_SERVER }}
+          port: 21
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          remote_folder: ${{ secrets.DEPLOY_PATH }}
+          local_folder: ./
+          cleanup: true
+          pasv: true
+      - name: Notify
+        if: always()
+        run: |
+          echo "## Deploy result" >> $GITHUB_STEP_SUMMARY
+          echo "- Repo: $GITHUB_REPOSITORY" >> $GITHUB_STEP_SUMMARY
+          echo "- Commit: $GITHUB_SHA" >> $GITHUB_STEP_SUMMARY
+          echo "- Status: ${{ job.status }}" >> $GITHUB_STEP_SUMMARY
